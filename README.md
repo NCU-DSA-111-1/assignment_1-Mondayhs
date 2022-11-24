@@ -15,10 +15,9 @@ assignment_1-Mondayhs/
         │
         ├──build.sh     # bash script
         ├──Makefile     # make file
-        ├──assignment#1.1.docx     # 
-        ├──assignment#1.1.pdf
-        └──README.md    # this file 
-        
+        ├──README.md    # this file 
+        ├──assignment#1.1.docx    
+        └──assignment#1.1.pdf
 ```
 
 
