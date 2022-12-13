@@ -1,5 +1,39 @@
 # Neural-Network-framework-using-Backpropogation-in-C
 
+
+## File structure
+```bash
+assignment_1-Mondayhs/
+        ├──bin/         # binary file which can execute
+        │   
+        ├──obj/         # object file which can be linked
+        │ 
+        ├──inc/         # header file
+        │   └── ...
+        ├──src/         # C code
+        │   └── ...
+        │
+        ├──build.sh     # bash script
+        ├──Makefile     # make file
+        ├──README.md    # this file 
+        ├──assignment#1.1.docx    
+        └──assignment#1.1.pdf
+```
+
+
+## Compile
+```sh
+sudo chmod +x build.sh
+./build.sh
+```
+
+## Run
+```sh
+cd bin
+./main --name name1 name2       # Run
+```
+
+
 ## Usage
 
 Enter the number of Layers in Neural Network: 3 <br />
@@ -60,5 +94,12 @@ Enter input to test: 1 0 <br />
 Output: 1 <br />
 Enter input to test: 1 1 <br />
 Output: 0 <br />
+
+
+
+
+
+
+
 
 <meta name="google-site-verification" content="APiTrnY8096NLZZykRABFxdIDC_bJcc7LYFJMPljdVo" />
