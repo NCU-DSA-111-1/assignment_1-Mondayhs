@@ -18,6 +18,7 @@ assignment_1-Mondayhs/
         ├──README.md    # this file 
         ├──assignment#1.1.docx    
         └──assignment#1.1.pdf
+        └── no linklist version     # First test NN by array
 ```
 
 
