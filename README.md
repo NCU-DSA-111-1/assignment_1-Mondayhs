@@ -102,8 +102,9 @@ Output: 0 <br />
 ## Reference
 
 open-source:
-[(https://medium.com/analytics-vidhya/building-neural-network-framework-![image](https://user-images.githubusercontent.com/91776708/211385702-97bd0daf-8abd-4c08-9a74-4172537624fb.png)
-in-c-using-backpropagation-8ad589a0752d )]
+[[(https://medium.com/analytics-vidhya/building-neural-network-framework-![image](https://user-images.githubuserco![image](https://user-images.githubusercontent.com/91776708/211385865-65464d22-a0a3-4675-94f7-dea3607b7eb9.png)
+ntent.com/91776708/211385702-97bd0daf-8abd-4c08-9a74-4172537624fb.png)
+in-c-using-backpropagation-8ad589a0752d )]](https://medium.com/analytics-vidhya/building-neural-network-framework-in-c-using-backpropagation-8ad589a0752d )
 
 
 
