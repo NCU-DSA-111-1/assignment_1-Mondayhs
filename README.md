@@ -99,7 +99,10 @@ Output: 0 <br />
 
 
 
+## Reference
 
+open-source:
+[https://www.foxzzz.com/Huffman-Code-Demo/](https://www.foxzzz.com/Huffman-Code-Demo/) 
 
 
 
