@@ -1,6 +1,11 @@
 # Neural-Network-framework-using-Backpropogation-in-C
 
+### no link 中有分析報告  
 
+ > * Created on: 2022/01/08 
+ > * Author: Yi Hsuan Chou  
+ 
+ 
 ## File structure
 ```bash
 assignment_1-Mondayhs/
@@ -99,7 +104,10 @@ Output: 0 <br />
 
 
 
+## Reference
 
+open-source:
+[(https://medium.com/analytics-vidhya/building-neural-network-framework-!](https://medium.com/analytics-vidhya/building-neural-network-framework-in-c-using-backpropagation-8ad589a0752d )
 
 
 
