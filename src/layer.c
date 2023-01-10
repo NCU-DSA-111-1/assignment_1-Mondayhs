@@ -9,5 +9,7 @@ layer create_layer(int number_of_neurons)
 	return lay;
 }
 
+
+
 // TODO:
 // Add destructor

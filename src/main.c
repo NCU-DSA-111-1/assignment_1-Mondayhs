@@ -5,6 +5,8 @@
 
 #define EPOCH 20000     // Train times
 
+//pointer
+// layer *lay = NULL;
 
 int main(void)
 {
